@@ -1,2 +1,4 @@
 # hello-world
-getting started
+Getting Started
+
+I made some edits. They look great.
